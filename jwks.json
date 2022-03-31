@@ -4,7 +4,7 @@
     "n": "74I7bpfFt9Z5dPpJHPJTNO6xc21LJ7xBdFEbjCaqSTH-exx5b1ioh8HvnBx6GW6_eMZ7SJjyrsM4B90E_-gUbMhHSJyIePsAoeqvP0LsrsSGgqE0izS77y2lJRN95P-v8OvaUwjbNq8N1Fj5Hd-3vZSZox-KShul-TD7L3uau3pC-KsEL9WXCCUnv4d6lg3KVR8TATcCIDx9iwdwMnDkTX1J3X2ObVRLaAwZbDe7n63jVmE1wQKCTRrG6MfGMGMSBA4knuEdWucem7vz2o94BFZNbjo0vRXuBCiJKFsEMpz9BssNhCIozdZ-gdbGOh394Afipf4hM8678ITwZtlB8WXtSK-2fl_7--7xkRkMQekrdVqmjslZoGpi-DWKFHD0Yoy5zSZFhL-Zf4-w4iFfUZnXn90xUhRI_BvflFgAd4FH3fvsUzC5VzMaDy6AkkBJLLsgOfkoOnG_5HKPHGYKx-9jN6zVggfc0fjOKc2Xoy3OMe1Zt-gg0gR3DPnGHZNvyVDezyI1t8LWq-obkqH6TughbxfX2stiILzeUq6OSN8xEq0XzqpRX-_g7J46F9KZoQO1bRshLuTCOxiZ0ravuPxTOjAAzJYFGxbGcoJvvYUXrARt0guDKfsE4AqQMy1_6u17CoGrh63trlUwHtf32Tmopaku7L2lKpX30sez3jU",
     "e": "AQAB",
     "alg": "RS512",
-    "kid": "Test1",
+    "kid": "test-1",
     "use": "sig"
   }
 ]
